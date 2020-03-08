@@ -1,0 +1,16 @@
+{
+  "name": "@olgax/math",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OlgaX/math.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
